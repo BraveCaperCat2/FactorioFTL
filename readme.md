@@ -1,1 +1,2 @@
-
+# Factorio FTL
+The mod which combines your two favourite games. Or at least I think those two games are your favourite...
